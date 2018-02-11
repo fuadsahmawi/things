@@ -1,3 +1,6 @@
 apple
 berries
 coconut
+donkey
+elephant
+flamingo
